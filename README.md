@@ -1,7 +1,8 @@
 # nd035-chatroom-project
 This is Chat Room project for Java Developer Nanodegree (nd035)
 
-This project implements Chat Room web application using WebSocket API
+This project implements Chat Room web application using WebSocket API. It also uses
+Thymeleaf template engine for UI
 
 How to run the project -
 1. mvn clean package
