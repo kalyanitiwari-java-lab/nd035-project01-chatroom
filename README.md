@@ -12,13 +12,16 @@ It is implemented using **WebSocket API**. It also uses **Thymeleaf template eng
 1. mvn clean package
 2. mvn spring-boot:run **0r** java -jar target/chatroom-starter-0.0.1-SNAPSHOT.jar
 
-## Usage
+## Usage / Testing
 1. Open a web browser
 2. Hit url http://localhost:8080/
 3. Enter your username
 4. Click on Login button 
 5. You join the chat room
-6. Start chatting
+6. To be able to test the app, typically, you'll want to login with different usernames in different 
+   browser tabs while the web app is running.
+6. Now when you send message, it will show Online Users count on right-top corner and message sent 
+   from any user will be braodcasted to all online users at the moment.
 
 ## License
 This project uses MIT License. Please read [LICENSE](https://github.com/kalyani7t/nd035-chatroom-project/blob/master/LICENSE) under this project before using it.
