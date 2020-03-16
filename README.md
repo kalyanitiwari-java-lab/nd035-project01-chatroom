@@ -10,7 +10,7 @@ It is implemented using **WebSocket API**. It also uses **Thymeleaf template eng
 
 ## How To Run
 1. mvn clean package
-2. mvn spring-boot:run 0r java -jar target/chatroom-starter-0.0.1-SNAPSHOT.jar
+2. mvn spring-boot:run **0r** java -jar target/chatroom-starter-0.0.1-SNAPSHOT.jar
 
 ## Usage
 1. Open a web browser
