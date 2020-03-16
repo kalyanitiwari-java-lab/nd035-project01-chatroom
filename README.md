@@ -14,7 +14,7 @@ Thymeleaf template engine for rendering UI.
 
 # Usage
 1. Open a web browser
-2. Hit url "http://localhost:8080/"
+2. Hit url http://localhost:8080/
 3. Enter your username
 4. Click on Login button 
 5. You join the chat room
