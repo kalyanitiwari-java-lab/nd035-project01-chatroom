@@ -21,5 +21,5 @@ It is implemented using **WebSocket API**. It also uses **Thymeleaf template eng
 6. Start chatting
 
 ## License
-This project uses MIT License. Please read [LICENSE](https://github.com/kalyani7t/nd035-chatroom-project/blob/add-license-1/LICENSE) under this project before using it.
+This project uses MIT License. Please read [LICENSE](https://github.com/kalyani7t/nd035-chatroom-project/blob/master/LICENSE) under this project before using it.
 
