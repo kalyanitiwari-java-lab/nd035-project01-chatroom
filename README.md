@@ -1,24 +1,7 @@
 # nd035-chatroom-project
-This is Chat Room project for Java Developer Nanodegree (nd035)
+This is Chat Room project for Udacity Java Developer Nanodegree (nd035).
 
-This project implements Chat Room web application using WebSocket API. It also uses
-Thymeleaf template engine for rendering UI.
-
-# Tools Required
-1. Spring Boot Framework
-2. Maven Plug-in configured with your IDE
-
-# How To Run
-1. mvn clean package
-2. mvn spring-boot:run 0r java -jar target/chatroom-starter-0.0.1-SNAPSHOT.jar
-
-# Usage
-1. Open a web browser
-2. Hit url http://localhost:8080/# nd035-chatroom-project
-This is Chat Room project for Udacity Java Developer Nanodegree (nd035)
-
-This project requires Udacity nd035 students to implement a web-based Chat Room application
-
+This project requires Udacity nd035 students to implement a web-based Chat Room application.
 It is implemented using **WebSocket API**. It also uses **Thymeleaf template engine** for rendering UI. 
 
 ## Tools Required
@@ -27,7 +10,7 @@ It is implemented using **WebSocket API**. It also uses **Thymeleaf template eng
 
 ## How To Run
 1. mvn clean package
-2. mvn spring-boot:run 0r java -jar target/chatroom-starter-0.0.1-SNAPSHOT.jar
+2. mvn spring-boot:run **0r** java -jar target/chatroom-starter-0.0.1-SNAPSHOT.jar
 
 ## Usage
 1. Open a web browser
@@ -39,13 +22,4 @@ It is implemented using **WebSocket API**. It also uses **Thymeleaf template eng
 
 ## License
 This project uses MIT License. Please read [LICENSE](https://github.com/kalyani7t/nd035-chatroom-project/blob/add-license-1/LICENSE) under this project before using it.
-
-
-3. Enter your username
-4. Click on Login button 
-5. You join the chat room
-6. Start chatting
-
-# License
-This project uses MIT License. Please read LICENSE under this project before using it.
 
