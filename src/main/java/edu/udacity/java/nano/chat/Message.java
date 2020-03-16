@@ -6,7 +6,7 @@ package edu.udacity.java.nano.chat;
 public class Message {
     private String content;
     private String from; //sender name
-    private String type; //SPEAK - if it's set to "SPEAK", this message will be broadcasted to all by the serverja
+    private String type; //SPEAK - if it's set to "SPEAK", this message will be broadcasted to all by the server
     private String onlineCount;
 
 
