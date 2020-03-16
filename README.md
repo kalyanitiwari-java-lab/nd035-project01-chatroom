@@ -1,4 +1,4 @@
-# udacity-chatroom-project
+# nd035-chatroom-project
 This is Chat Room project for Java Developer Nanodegree (nd035)
 
 This project aims implements Chat Room web application using WebSocket API
