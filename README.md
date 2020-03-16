@@ -1,11 +1,11 @@
 # nd035-chatroom-project
 This is Chat Room project for Java Developer Nanodegree (nd035)
 
-This project aims implements Chat Room web application using WebSocket API
+This project implements Chat Room web application using WebSocket API
 
 How to run the project -
-mvn clean build
-mvn spring-boot:run
+1. mvn clean package
+2. mvn spring-boot:run 0r java -jar target/chatroom-starter-0.0.1-SNAPSHOT.jar
 
 Once the application is up and running - 
 1. Open a web browser
