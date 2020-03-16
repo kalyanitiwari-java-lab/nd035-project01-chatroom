@@ -20,8 +20,8 @@ It is implemented using **WebSocket API**. It also uses **Thymeleaf template eng
 5. You join the chat room
 6. To be able to test the app, typically, you'll want to login with different usernames in different 
    browser tabs while the web app is running.
-6. Now when you send message, it will show Online Users count on right-top corner and message sent 
-   from any user will be braodcasted to all online users at the moment.
+6. It will show Online Users count on right-top corner and message sent from any user will be braodcasted 
+   to all online users at the moment.
 
 ## License
 This project uses MIT License. Please read [LICENSE](https://github.com/kalyani7t/nd035-chatroom-project/blob/master/LICENSE) under this project before using it.
