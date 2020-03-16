@@ -1,8 +1,7 @@
 # nd035-chatroom-project
-This is Chat Room project for Udacity Java Developer Nanodegree (nd035)
+This is Chat Room project for Udacity Java Developer Nanodegree (nd035).
 
-This project requires Udacity nd035 students to implement a web-based Chat Room application
-
+This project requires Udacity nd035 students to implement a web-based Chat Room application.
 It is implemented using **WebSocket API**. It also uses **Thymeleaf template engine** for rendering UI. 
 
 ## Tools Required
