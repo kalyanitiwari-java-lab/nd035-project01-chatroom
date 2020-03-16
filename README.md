@@ -2,7 +2,7 @@
 This is Chat Room project for Java Developer Nanodegree (nd035)
 
 This project implements Chat Room web application using WebSocket API. It also uses
-Thymeleaf template engine for UI
+Thymeleaf template engine for rendering UI.
 
 # Tools Required
 1. Spring Boot Framework
@@ -20,3 +20,5 @@ Thymeleaf template engine for UI
 5. You join the chat room
 6. Start chatting
 
+# License
+This project uses MIT License. Please read LICENSE under this project before using it.
